@@ -4,7 +4,7 @@
 
 ### `root@LuisFloresTSM:~$ whoami`
 
-**Full-Stack Developer | Cybersecurity Enthusiast | Bug Hunter (in training)**
+**Vibe Coder | Cybersecurity Enthusiast | Bug Hunter (in training)**
 
 <img src="https://github-readme-stats.vercel.app/api?username=LuisFloresTSM&show_icons=true&theme=chartreuse-dark&hide_border=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFloresTSM&layout=compact&theme=chartreuse-dark&hide_border=true" width="40%" />
@@ -24,14 +24,13 @@
 
 ## 🕶️ Sobre mí
 
-Soy Luis, un desarrollador full-stack con enfoque en ciberseguridad, scripting, automatización y Linux.  
+Soy Luis, un vibe coder con enfoque en ciberseguridad, scripting, automatización y Linux.  
 Me gusta romper cosas para entender cómo funcionan y construir herramientas que no sean fáciles de romper.
 
 **Actualmente reforzando:**
 - Redes
 - Linux
 - Python para scripting
-- Pentesting fundamentals
 
 ---
 
@@ -50,11 +49,7 @@ Me gusta romper cosas para entender cómo funcionan y construir herramientas que
 
 ## 🔭 Proyectos destacados
 
-- **[Scripts-SecOps](https://github.com/LuisFloresTSM/Scripts-SecOps)** — Automatización + Bash + Python
-- **[mini-dashboard](https://github.com/LuisFloresTSM/mini-dashboard)** — Panel simple estilo hacker
-- **[experimentos-cyber](https://github.com/LuisFloresTSM/experimentos-cyber)** — pruebas, PoCs, utilidades
-
-> _(Cambia estos por tus repos reales cuando los tengas listos)_
+- **[Scripts-SecOps](https://github.com/LuisFloresTSM/plataforma-eco)** — js, css and html vanilla
 
 ---
 
@@ -65,8 +60,8 @@ Me gusta romper cosas para entender cómo funcionan y construir herramientas que
 > response: 200 OK
 ```
 
-- 💼 **LinkedIn:** [tu enlace aquí](https://linkedin.com/in/tu-usuario)
-- 📧 **Email:** tu-correo@ejemplo.com
+- 💼 **LinkedIn:** [tu enlace aquí](https://linkedin.com/in/LuisFloresCespedes)
+- 📧 **Email:** lf2019.00@gmail.com
 
 ---
 
