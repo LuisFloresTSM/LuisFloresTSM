@@ -11,7 +11,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Cybersecurity+Enthusiast+%F0%9F%94%90;Bug+Hunter+in+Training+%F0%9F%90%9B;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/LuisFloresTSM)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=%3E+Initializing+profile...;%3E+Loading+encryption+keys...;%3E+Establishing+connection...;%3E+ACCESS+GRANTED+%E2%9C%93" alt="Typing SVG" />
+</div>
 
 </div>
 
